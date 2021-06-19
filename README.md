@@ -1,5 +1,7 @@
 # 3D Bearing Drift OpenSCAD Model
 
+![Bearing-Drift](bearing-drift.stl)
+
 A Customizable openscad model for a bearing drift Intended for use on bicycles. For example headset bearings.
 
 May be used to create a makeshift bearing press. The extra parts are not included here but can be easily sourced. I've used an M8 300mm thread with M8 bolts and large washers.
