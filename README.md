@@ -1,6 +1,7 @@
 # 3D Bearing Drift OpenSCAD Model
 
 [3D Model](https://github.com/androidwiltron/bearing-drift/blob/main/bearing-drift.stl)
+[Open in Thingiverse](https://www.thingiverse.com/thing:4889521)
 
 A Customizable openscad model for a bearing drift Intended for use on bicycles. For example headset bearings.
 
